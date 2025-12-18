@@ -1,0 +1,7 @@
+{
+  "name": "FamFlow: Personalized Family Content",
+  "description": "A high-quality, age-personalized family engagement app that provides daily content cards and AI guidance tailored to different household profiles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
